@@ -1,0 +1,21 @@
+body {
+  background-color: white;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.top {
+  margin-top: 25px;
+  float: right;
+}
+.logo {
+  margin-top: 25px;
+  margin-left: auto;
+  display: inline-block;
+}
+.logo div {
+  font-size: 25px;
+  display: inline;
+}
+.logo h6 {
+  display: inherit;
+}

@@ -19,3 +19,9 @@ body {
 .logo h6 {
   display: inherit;
 }
+.list li {
+  background-color: transparent;
+}
+.list {
+  background-image: image("./img/list-bg.png");
+}
